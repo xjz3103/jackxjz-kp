@@ -3,7 +3,7 @@
 language: zh-CN
 
 # 设置 favicon
-favicon: /img/favicon.png
+favicon: /img/favicon.ico
 
 
 # 设置 rss
@@ -33,7 +33,7 @@ menu:
   about: /about/ || fab fa-grav || rgb(154 106 247)
   guestbook: /guestbook/ || fab fa-telegram || hsl(205deg 100% 50%)
   friends: /link/ || fab fa-weixin || hsl(152deg 73% 45%)
-
+  主站: https://jackxjz.vercel.app/ || fas fa-coffee ||#31c7c1
 
 
 # 如果 method: 1显示名称；method: 2显示头像
@@ -163,7 +163,7 @@ reward:
   enable: true
   AliPayQR: /img/alipay.jpg                 # 支付宝收款码
   WeChatQR: /img/wechat.jpg                # 微信收款码
-  PayPalLink: https://paypal.me                            # paypal收款链接
+  PayPalLink:                             # paypal收款链接
 
 
 
